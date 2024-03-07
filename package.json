@@ -1,0 +1,12 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "Api de busca de livros ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Caique-Menezes",
+  "license": "ISC"
+}
